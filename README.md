@@ -1,4 +1,11 @@
-## Hi there 👋
+# Fabian Rostello
+
+Développeur d'applications CFC, basé en Suisse romande.
+
+Je conçois l'architecture de systèmes logiciels et je les réalise avec l'aide d'assistants IA.
+
+- [NewsGenerator](https://github.com/TPI2026-NewsGenerator) : mon travail final de CFC (React, Node.js). Architecture conçue avec mon enseignant, suite développée avec des assistants IA.
+- [Prismea](https://prismea.ch) : boutique en ligne en production (code privé).
 
 <!--
 **faabich/faabich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
